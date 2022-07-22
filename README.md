@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nomadtech-77
 - 👀 I’m interested in Software Development and Web 3
-- 🌱 I’m currently learning HTML, CSS, PHP, MySQL
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, TailwindCSS,Javascript, 
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 How to reach me nomadcrypto77@gmail.com
 
